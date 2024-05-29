@@ -1,0 +1,14 @@
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\bin\Debug\net8.0\HomeWork_13.exe
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\bin\Debug\net8.0\HomeWork_13.deps.json
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\bin\Debug\net8.0\HomeWork_13.runtimeconfig.json
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\bin\Debug\net8.0\HomeWork_13.dll
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\bin\Debug\net8.0\HomeWork_13.pdb
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\HomeWork_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\HomeWork_13.AssemblyInfoInputs.cache
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\HomeWork_13.AssemblyInfo.cs
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\HomeWork_13.csproj.CoreCompileInputs.cache
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\HomeWork_13.dll
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\refint\HomeWork_13.dll
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\HomeWork_13.pdb
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\HomeWork_13.genruntimeconfig.cache
+D:\Daniel_Synergy_Code\Daniel_DZ_Synergy_Code_Ready\HomeWork_13\obj\Debug\net8.0\ref\HomeWork_13.dll
